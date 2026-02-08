@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Adam
+# Welcome to my portfolio!
 
 I’m a recent computer science graduate from Mount Royal University. 
 
