@@ -1,17 +1,22 @@
 # 👋 Hi, I’m Adam
 
-I’m a developer focused on Python, ML, and data projects.
+I’m a recent computer science graduate from Mount Royal University. 
 
-## Current Works in Progress
+After extensive experience in exterior construction, I was fortunate to have a support system that allowed me the freedom to 
+go back to school. 
 
-# Socialogical Impact of Tech Directed Reading
+I enjoy data science (statistics, ELT, and data mining) and creating fun coding projects and websites.
+
+# Current Works in Progress
+
+## Socialogical Impact of Tech Directed Reading
 
 I’m currently following along with a friends directed reading to research and study the socialogical impact of technology in 
 the modern age. Reading list includes: The Chaos Machine (CURRENT, >50% done), Enshittification by Cory Doctorow (FINISHED),
 Artificial Unintelligence by Meredith Broussard (FINISHED), Coders by Clive Thompson (FINISHED), How To Do Nothing by Jenny 
 Odell (Not started), and Digital Exhaustion by Paul Leonardi (Not started).
 
-# Character Database Using Unfamiliar Tech
+## Character Database Using Unfamiliar Tech
 
 I'm also in the early stages of creating a database of characters I love from various media using technology I'm not familiar 
 with like Ruby on Rails, React, Tailwind, and hybrid databases (document and relational) to get more familiar with these 
