@@ -14,12 +14,12 @@ I enjoy data science (statistics, ELT, and data mining) and creating fun coding 
 
 For my own curiosity and intellectual growth, I’m currently following along with a friend's directed reading to research and 
 study the socialogical impact of technology in the modern age. Reading list includes: 
-  **The Chaos Machine (CURRENT, >50% done)** 
-  **Enshittification by Cory Doctorow (FINISHED)** 
-  **Artificial Unintelligence by Meredith Broussard (FINISHED)** 
-  **Coders by Clive Thompson (FINISHED)**
-  **How To Do Nothing by Jenny Odell (Not started)**
-  **Digital Exhaustion by Paul Leonardi (Not started)**
+  - **The Chaos Machine (CURRENT, >50% done)** 
+  - **Enshittification by Cory Doctorow (FINISHED)** 
+  - **Artificial Unintelligence by Meredith Broussard (FINISHED)** 
+  - **Coders by Clive Thompson (FINISHED)**
+  - **How To Do Nothing by Jenny Odell (Not started)**
+  - **Digital Exhaustion by Paul Leonardi (Not started)**
 
 ## Character Database Using Unfamiliar Tech
 
