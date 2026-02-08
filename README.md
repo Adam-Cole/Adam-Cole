@@ -25,7 +25,7 @@ systems and technologies.
 
 
 ## 🚀 Featured Projects
-- 🔤 **ELT and Data Mining** - Python 
+- 🧊 → 💎 **ELT and Data Mining** - Python 
   👉 https://github.com/Adam-Cole/COMP-4522---Assignment-2---ETL-and-Data-Mining-Analytics
 - 🧙 **MTG Card Generator** — PyTorch model  
   👉 https://github.com/Adam-Cole/COMP-4630-Machine-Lovin--Final-Project
