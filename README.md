@@ -28,14 +28,14 @@ using technology I'm not familiar with like **Ruby on Rails, React, Tailwind, an
 to get more familiar with these systems and technologies.
 
 ## 🚀 Featured Projects
-- 🧊 → 💎 **ELT and Data Mining** - Python 
+- 🧊 → 💎 **ELT and Data Mining** - Python   
   → Repo: https://github.com/Adam-Cole/COMP-4522---Assignment-2---ETL-and-Data-Mining-Analytics
-- **E-Commerce Web Application** - HTML, CSS, and JavaScript
-  → Repo: https://github.com/Adam-Cole/COMP-3612-Assignment-2
+- **E-Commerce Web Application** - HTML, CSS, and JavaScript  
+  → Repo: https://github.com/Adam-Cole/COMP-3612-Assignment-2  
   → Webpage: https://adam-cole.github.io/COMP-3612-Assignment-2
-- 🧙 **MTG Card Generator** — PyTorch model
+- 🧙 **MTG Card Generator** — PyTorch model  
   → Repo: https://github.com/Adam-Cole/COMP-4630-Machine-Lovin--Final-Project
-- 🔤 **Spellchecker** - Python and Haskell
+- 🔤 **Spellchecker** - Python and Haskell  
   → Repo: https://github.com/Adam-Cole/COMP-3649-Project
  
 ## 🛠 Tech
