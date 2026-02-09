@@ -29,11 +29,11 @@ to get more familiar with these systems and technologies.
 
 ## 🚀 Featured Projects
 - 🧊 → 💎 **ELT and Data Mining** - Python 
-  👉 https://github.com/Adam-Cole/COMP-4522---Assignment-2---ETL-and-Data-Mining-Analytics
+  -> https://github.com/Adam-Cole/COMP-4522---Assignment-2---ETL-and-Data-Mining-Analytics
 - 🧙 **MTG Card Generator** — PyTorch model  
-  👉 https://github.com/Adam-Cole/COMP-4630-Machine-Lovin--Final-Project
+  -> https://github.com/Adam-Cole/COMP-4630-Machine-Lovin--Final-Project
 - 🔤 **Spellchecker** - Python and Haskell
-  👉 https://github.com/Adam-Cole/COMP-3649-Project
+  -> https://github.com/Adam-Cole/COMP-3649-Project
  
 ## 🛠 Tech
 Python · C/C++ · SQL · Git · HTML/CSS/JavaScript
