@@ -13,7 +13,8 @@ I enjoy data science (statistics, ELT, and data mining) and creating fun coding 
 ## Socialogical Impact of Tech Directed Reading
 
 For my own curiosity and intellectual growth, I’m currently following along with a friend's directed reading to research and 
-study the socialogical impact of technology in the modern age. Reading list includes: 
+study the socialogical impact of technology in the modern age to hopefully make a more positive impact with technological
+design. My reading list includes: 
   - **The Chaos Machine (CURRENT, >50% done)** 
   - **Enshittification by Cory Doctorow (FINISHED)** 
   - **Artificial Unintelligence by Meredith Broussard (FINISHED)** 
