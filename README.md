@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Adam
+# Hi, I’m Adam
 # Welcome to my portfolio!
 
 I’m a recent computer science graduate from Mount Royal University. 
@@ -28,21 +28,21 @@ For my own technological growth, I'm also in the early stages of creating a data
 using technology I'm not familiar with like **Ruby on Rails, React, Tailwind, and hybrid databases (document and relational)** 
 to get more familiar with these systems and technologies.
 
-## 🚀 Featured Projects
-- 🧊 → 💎 **ELT and Data Mining** - Python   
+## Featured Projects
+- **ELT and Data Mining** - Python   
   → Repo: https://github.com/Adam-Cole/COMP-4522---Assignment-2---ETL-and-Data-Mining-Analytics
 - **E-Commerce Web Application** - HTML, CSS, and JavaScript  
   → Repo: https://github.com/Adam-Cole/COMP-3612-Assignment-2  
   → Webpage: https://adam-cole.github.io/COMP-3612-Assignment-2
-- 🧙 **MTG Card Generator** — PyTorch model  
+- **MTG Card Generator** — PyTorch model  
   → Repo: https://github.com/Adam-Cole/COMP-4630-Machine-Lovin--Final-Project
-- 🔤 **Spellchecker** - Python and Haskell  
+- **Spellchecker** - Python and Haskell  
   → Repo: https://github.com/Adam-Cole/COMP-3649-Project
  
-## 🛠 Tech
+## Tech
 Python · C/C++ · SQL · Git · HTML/CSS/JavaScript
 
-## 📫 Contact
+## Contact
 - Email: adamdouglascole84@gmail.com
 - LinkedIn: https://www.linkedin.com/in/adam-cole-959b89337/
 
