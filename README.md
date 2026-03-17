@@ -20,7 +20,7 @@ design. My reading list includes:
   - **Artificial Unintelligence by Meredith Broussard (FINISHED)** 
   - **Coders by Clive Thompson (FINISHED)**
   - **How To Do Nothing by Jenny Odell (FINISHED)**
-  - **Digital Exhaustion by Paul Leonardi (CURRENT, Just started)**
+  - **Digital Exhaustion by Paul Leonardi (FINISHED)**
 
 ## Character Database Using Unfamiliar Tech
 
