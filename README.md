@@ -36,8 +36,6 @@ to get more familiar with these systems and technologies.
 - **E-Commerce Web Application** - HTML, CSS, and JavaScript  
   → Repo: https://github.com/Adam-Cole/COMP-3612-Assignment-2  
   → Webpage: https://adam-cole.github.io/COMP-3612-Assignment-2
-- **MTG Card Generator** — PyTorch model  
-  → Repo: https://github.com/Adam-Cole/COMP-4630-Machine-Lovin--Final-Project
 - **Spellchecker** - Python and Haskell  
   → Repo: https://github.com/Adam-Cole/COMP-3649-Project
  
