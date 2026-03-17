@@ -14,7 +14,8 @@ I enjoy data science (statistics, ELT, and data mining) and creating fun coding 
 
 For my own curiosity and intellectual growth, I’m currently following along with a friend's directed reading to research and 
 study the socialogical impact of technology in the modern age to hopefully make a more positive impact with technological
-design. My reading list includes: 
+design. 
+My reading list includes: 
   - **The Chaos Machine (FINISHED)** 
   - **Enshittification by Cory Doctorow (FINISHED)** 
   - **Artificial Unintelligence by Meredith Broussard (FINISHED)** 
