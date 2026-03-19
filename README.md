@@ -31,6 +31,8 @@ using technology I'm not familiar with like **Ruby on Rails, React, Tailwind, an
 to get more familiar with these systems and technologies.
 
 ## Featured Projects
+- **Customer Contact Optimizer**
+  → Repo: https://github.com/Adam-Cole/customer-contact-optimization
 - **ELT and Data Mining** - Python   
   → Repo: https://github.com/Adam-Cole/COMP-4522---Assignment-2---ETL-and-Data-Mining-Analytics
 - **E-Commerce Web Application** - HTML, CSS, and JavaScript  
