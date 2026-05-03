@@ -14,9 +14,9 @@ I enjoy data science (statistics, ELT, and data mining) and creating fun coding 
 
 → Repo: https://github.com/Adam-Cole/dnd_app/tree/main
 
-I'm building a D&D app that will take in party details and save them to a json file. 
+I'm building a **D&D app** that will take in party details and save them to a json file. 
 
-Eventually, you'll be able to load a party into the active party slot, then, in the DM's Tools section, generate random 
+Eventually, you'll be able to load a party into the active party slot, then, in the **DM's Tools** section, generate random 
 encounters and random loot for the active party.
 
 ## Socialogical Impact of Tech Directed Reading
